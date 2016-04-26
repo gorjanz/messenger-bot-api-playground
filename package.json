@@ -7,7 +7,7 @@
   "description": "Messenger Bot API playground.",
   "repository": {
     "type": "git",
-    "url": "https://gorjanz@bitbucket.org/gorjanz/seminar-backend-node.git"
+    "url": "https://github.com/gorjanz/messenger-bot-api-playground.git"
   },
   "dependencies": {
   },
